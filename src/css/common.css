@@ -1,0 +1,146 @@
+body{
+    background-color: #1b1a19;
+    color: #ffffff;
+    font-family: 'IM Fell English', serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+label{
+    font-size: 1.5rem;
+}
+
+@keyframes slideInLeft {
+    from {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+}
+
+@keyframes fadeInAndGrow {
+    0% {
+      opacity: 0;
+      transform: scale(0.5);
+      filter: brightness(0%);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+      filter: brightness(100%);
+    }
+  }
+
+.fantasy-text{
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: bold;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+    filter: brightness(90%) contrast(80%);
+    border-radius: 20px;
+}
+
+.image:hover{
+    transform: scale(1.05);
+}
+
+.tooltip-text{
+    color: #3F8FD2;
+    cursor: pointer;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    background-color: #1b1a19;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #3b3a39;
+    transform: scale(1.1);
+  }
+  
+  .button:active {
+    transform: translateY(2px);
+  }
+  
+  .button-container {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+.mt-10{
+    margin-top: 10px;
+}
+
+.mr-10{
+    margin-right: 10px;
+}
+
+.ml-10{
+    margin-left: 10px;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.custom-tooltip{
+    opacity: 1 !important;
+    font-size: 1.5rem !important;
+    width: 25% !important;
+
+}
+
+input{
+    width: 8rem;
+    height: 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    border-radius: 2px;
+    border: 1px solid #808080;
+    background-color: #1b1a19;
+    color: #FFB90F;
+}
+
+input:hover{
+    border: 1px solid #BFBFBF;
+}
+
+input:focus{
+    outline: none;
+    border: 1.5px solid #ffffff;
+}
+
+.separator {
+    width: 100%;
+    height: 1px;
+    background-color: #808080;
+  }
+
+label {
+    display: block; /* Hace que las etiquetas se muestren como bloques */
+    margin-bottom: 5px; /* Espacio entre la etiqueta y la entrada */
+}

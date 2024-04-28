@@ -1,0 +1,79 @@
+
+
+.grid-container {
+    margin: 2rem;
+    column-gap: 2rem;
+    display: grid;
+    grid-template-areas:
+    'leftImage content content rigthImage'
+    '. leftBottomImage rightBottomImage .'
+    
+}
+
+.selection-row > *{
+    width: 5rem !important
+}
+
+.selection-row-button > *{
+    width: 5rem !important
+}
+
+
+.left-image{
+    grid-area: leftImage;
+    animation: fadeInAndGrow 1s ease;
+}
+
+.rigth-image{
+    grid-area: rigthImage;
+    animation: fadeInAndGrow 1s ease;
+}
+
+.bottom-left-image{
+    grid-area: leftBottomImage;
+    animation: fadeInAndGrow 1s ease;
+}
+
+.bottom-right-image{
+    grid-area: rightBottomImage;
+    animation: fadeInAndGrow 1s ease;
+}
+
+.content {
+    grid-area: content;
+    height: 32rem;
+}
+
+.content > * {
+    animation: fadeInAndGrow 1s ease;
+}
+
+.reduced-input input{
+    width: 7rem;
+}
+
+.mt-38{
+    margin-top: 38px;
+}
+
+.centered-table {
+    margin: 0 auto;
+  }
+
+.input-size{
+    width: 7rem;
+    height: 2rem;
+    padding: 1px 0px 0px 0px !important;
+    font-family: 'IM Fell English', serif;
+}
+
+.select-button  {
+    padding: 5px 10px !important;
+    font-size: 18px !important;
+  }
+
+.absolute-horizontal-center{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
