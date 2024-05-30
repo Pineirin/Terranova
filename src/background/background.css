@@ -1,0 +1,127 @@
+.background-section{
+    border: 1px solid #0d0d0d;
+}
+
+.backgrounds-container{
+    display: flex;
+    flex-wrap: wrap; /* Allows the items to wrap onto multiple lines */
+}
+
+.background-container {
+    display: grid;
+    grid-template-areas:
+    'background-points background-points'
+    'background-requirements background-requirements'
+    'background-combat background-skills'
+    'background-special background-special'
+    'background-heroic background-heroic'
+    'background-wargear background-wargear'
+    'background-known-wargear background-known-wargear'
+    'background-adept background-adept';
+}
+
+.background-combat{
+    grid-area: background-combat;
+}
+
+.background-skills{
+    grid-area: background-skills;
+}
+
+.background-special{
+    grid-area: background-special;
+}
+
+.background-wargear{
+    grid-area: background-wargear;
+}
+
+.background-known-wargear{
+    grid-area: background-known-wargear;
+}
+
+.background-adept{
+    grid-area: background-adept;
+}
+
+.background-requirements{
+    grid-area: background-requirements;
+}
+
+.background-points{
+    grid-area: background-points;
+}
+
+.background-special > h3, .background-heroic > h3, .background-wargear > h3, .background-known-wargear > h3{
+    margin-bottom: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+.background-special > p, .background-heroic > p, .background-wargear > p, .background-known-wargear > p, .background-adept > p, .background-requirements > div  {
+    padding: 20px;
+    text-align: center !important;
+}
+
+.background-requirements p{
+    text-align: center !important;
+}
+
+
+.background-heroic{
+    grid-area: background-heroic;
+}
+
+.background-stats-container{
+    display: grid;
+    grid-template-areas:
+    'background-labels background-stats';
+}
+
+.background-labels{
+    padding-left: 20px;
+    text-align: left;
+    grid-area: background-labels;
+}
+
+.background-stats{
+    color: #FFB90F;
+    grid-area: background-stats;
+}
+
+.background-button{
+    position: absolute;
+    left: 44%;
+    bottom: -20px;
+    font-size: 60px;
+    padding:  0px 10px;
+    border: none;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.background-button:hover {
+    transform: scale(1.5);
+}
+
+.modal-container {
+    display: grid;
+    grid-template-areas:
+    'modal-text modal-buttons modal-buttons'
+}
+
+.modal-text{
+    grid-area: modal-text;
+    text-align: left;
+}
+
+.modal-buttons{
+    grid-area: modal-buttons;
+    display: flex;
+    justify-content: flex-end; /* Align content to the right */
+    align-items: center;
+    margin-right: 2em;
+}

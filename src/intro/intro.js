@@ -31,14 +31,14 @@ function Intro() {
 
   return (
     <div className="grid-container">
-      <div className="left-image"><img src={intro3} alt="Imagen 1" className="image" /></div>
+      <div className="left-image"><img src={intro3} alt="Imagen 1" className="image image-intro" /></div>
       <div className="content">
         <h1>Adventurers of Terranova</h1>
         {activePageComponent}
       </div>
-      <div className="rigth-image"><img src={intro1} alt="Imagen 2" className="image" /></div>
-      <div className="bottom-left-image"><img src={intro4} alt="Imagen 3" className="image" /></div>
-      <div className="bottom-right-image"><img src={intro2} alt="Imagen 4" className="image" /></div>
+      <div className="rigth-image"><img src={intro1} alt="Imagen 2" className="image image-intro" /></div>
+      <div className="bottom-left-image"><img src={intro4} alt="Imagen 3" className="image image-intro" /></div>
+      <div className="bottom-right-image"><img src={intro2} alt="Imagen 4" className="image image-intro" /></div>
     </div>
   );
 }

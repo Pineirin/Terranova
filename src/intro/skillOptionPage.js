@@ -6,10 +6,10 @@ function SkillOptionPage({ index, isActive, onChangeActivePage }) {
 
   return (
     <>
-        <p>There 6 <span className="tooltip-text natural-skills">Natural Skills</span>. You may use the ones <span className="tooltip-text offered">offered by the Game Master</span> or generate a new set.</p>
+        <p>There are 6 <span className="tooltip-text natural-skills">Natural Skills</span>. You may use the ones <span className="tooltip-text offered">offered by the Game Master</span> or generate a new set.</p>
 
         <Tooltip anchorSelect=".natural-skills" className="custom-tooltip" place="top">
-            <p>Natural Skills (Athlectics, Finesse, Practise, Cleverness, Charisma and Erudition) represent the birth talent of a character towards several aptitudes. They may never be increased, but they may be swapped for a points cost.</p>
+            <p>Natural Skills (Athletics, Finesse, Practise, Cleverness, Charisma and Erudition) represent the birth talent of a Character towards several aptitudes. They may never be increased, but they may be swapped for a points cost.</p>
         </Tooltip>
 
         <Tooltip anchorSelect=".offered" className="custom-tooltip" place="top">

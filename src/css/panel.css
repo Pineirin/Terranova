@@ -1,0 +1,42 @@
+.panel {
+  border: 1px solid #0d0d0d;
+  box-shadow: 10px 10px 5px #000000, -2.5px -2.5px 5px #000000;;
+  margin-left: 2.5%;
+  margin-bottom: 2.5%;
+  padding: 20px;
+  transition: all 0.3s ease;  
+  border-radius: 5px;
+}
+
+.panel:hover {
+  transform: scale(1.05);
+  box-shadow: 20px 20px 10px #000000, -5px -5px 10px #000000;
+  cursor: pointer;
+}
+
+.panel-image {
+  max-width: 100%; 
+}  
+
+.panel-content {
+  margin-top: 10px;
+}
+
+.panel-content > h2{
+  margin: 0;
+}
+
+.panel p, .panel-disabled p{
+  margin: 0;
+  text-align: justify;
+  font-size: 1.25rem;
+}
+
+.panel-disabled{
+  border: 1px solid #0d0d0d;
+  margin-left: 2.5%;
+  margin-bottom: 2.5%;
+  padding: 20px;
+  transition: all 0.3s ease;  
+  border-radius: 5px;
+}

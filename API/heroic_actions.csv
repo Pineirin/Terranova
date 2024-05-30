@@ -1,0 +1,4 @@
+Heroic Movement;heroic_movement;The Hero moves first, ignoring priority. Allies within 6 m of the Hero may move after, also ignoring priority.
+Heroic Shoot;heroic_shoot;The Hero shoots first, ignoring priority. Allies within 6 m of the Hero may shoot after, also ignoring priority.
+Heroic Combat;heroic_combat;The Hero's combat is resolved first. If the Hero and its allies kill all the opponents, they may charge to another combat.
+Heroic March;heroic_march;The Hero may move 3 extra m (5 if Cavalry), but may not charge (during the round). Allies within 6 m of the Hero may also move extra (as long as they don't charge).
