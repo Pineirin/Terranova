@@ -1,0 +1,47 @@
+.custom-grid-container {
+    margin: 2rem;
+    column-gap: 2rem;
+    display: grid;
+    grid-template-areas:
+    'customLeftImage content content customRigthImage'
+    'customLeftBottomImage content content customRightBottomImage'
+}
+
+.image-intro{
+    width: 100%;
+    height: 100%;
+    filter: brightness(90%) contrast(80%);
+  }
+
+.custom-left-image{
+    grid-area: customLeftImage;
+    animation: fadeInAndGrow 1s ease;
+}
+
+.custom-rigth-image{
+    grid-area: customRigthImage;
+    animation: fadeInAndGrow 1s ease;
+}
+
+.custom-bottom-left-image{
+    grid-area: customLeftBottomImage;
+    animation: fadeInAndGrow 1s ease;
+}
+
+.custom-bottom-right-image{
+    grid-area: customRightBottomImage;
+    animation: fadeInAndGrow 1s ease;
+}
+
+.custom-container{
+    margin-top: 10vh;
+}
+
+.custom-options{
+    margin-bottom: 5vh;
+}
+
+.content {
+    grid-area: content;
+    height: 32rem;
+}

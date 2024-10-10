@@ -1,0 +1,24 @@
+.swap-input {
+    width: 12rem;
+    height: 4rem;
+    text-align: center;
+    font-size: 2.5rem;
+    border-radius: 10px;
+    border: 4px solid #808080;
+    background-color: #1b1a19;
+    color: #FFB90F;
+    cursor: pointer;
+}
+
+.swap-input:hover{
+    border: 4px solid #BFBFBF;
+}
+
+.swap-selected{
+    border: 4px solid #FFFFFF ;
+    color: #ffe23c ;
+}
+
+.swap-table{
+    border-spacing: 15px;
+}

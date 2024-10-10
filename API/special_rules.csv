@@ -30,7 +30,6 @@ Chieftain;chieftain;This Character was the Chieftain of a destroyed tribe. At th
 Combat Climber;combat_climber;This Character may engage another in a Fight while climbing a surface.
 Continual Recovery;continual_recovery;This Character may attempt a Treat Wounds Test 6 times for the same wound (instead of just 1).
 Craft Anything;craft_anything;Characters with this Special Rule may attempt to craft anything, even ignoring racial or alignment limitations.
-Sidhe Fighting Style;sidhe_fighting_style;This Character does not suffer the -1 penalty to their Duel rolls for using their Sidhe-made hand-and-a-half weapon as a two-handed weapon.
 Expert Rider;expert_rider;"Whilst mounted, an Expert Rider may re-roll the dice in Tests related to the mount movement (this includes Thrown Rider).
  Whilst mounted, a Character carrying both a shield and a bow will still receive the +1 Defence bonus for being armed with a shield.
  Additionally, an Expert Rider can pick up Light Objects without needing to dismount."
@@ -115,6 +114,7 @@ Scout;scout;When this Character is about to be ambushed in the Wilderness, it ma
 Shaman;shaman;This Character may replace any dice for a 6 in any Diplomacy or Intimidation Tests when the targets are devotees of the same religion and belong to the same home region.
 Shield Block;shield_block;If this Character is armed with a shield, it may use a Reaction to avoid 1 Wound in exchange for reducing the Durability of its shield by 1.
 ShieldWall;shieldwall;If this Character is armed with a shield, whilst in base contact with two or more non-Prone Characters with this Special Rule that are armed with a shield, this Character gains a bonus of +1 to its Defence. This bonus is only available whilst on foot.
+Sidhe Fighting Style;sidhe_fighting_style;This Character does not suffer the -1 penalty to their Duel rolls for using their Sidhe-made hand-and-a-half weapon as a two-handed weapon.
 Slippery Secrets;slippery_secrets;No magic may read the mind of this Character.
 Specialty Crafting (X);specialty_crafting;"This Character rolls 1 additional D6 in the Craft Subskill X; if the Character is Master in Craft, it adds 2 instead."
 Stalk Unseen;stalk_unseen;"If a Character with this special rule is partially concealed from view by a piece of terrain, it cannot be seen at all at distances of more than 6 m, it appears to melt into the background. This means that enemies cannot Charge, Shoot or target it with Magical Powers or special rules at ranges of greater than 6 m, unless they have a completely clear view of the target.

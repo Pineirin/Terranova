@@ -1,0 +1,82 @@
+.upgrade-input {
+    width: 10rem;
+    height: 3rem;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 10px;
+    border: 4px solid #808080;
+    background-color: #1b1a19;
+    color: #FFB90F;
+    cursor: pointer;
+}
+
+.upgrade-input:hover{
+    border: 4px solid #BFBFBF;
+}
+
+.upgrade-selected{
+    border: 4px solid #FFFFFF ;
+    color: #ffe23c ;
+}
+
+.upgrade-image{
+    position: relative;
+}
+
+.upgrade-image img{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    top: -195px;
+}
+
+.upgrade-low img{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    top: -145px;
+}
+
+.upgrade-table{
+    border-spacing: 15px;
+    grid-area: upgrade-table;
+    margin-left: 10%;
+}
+
+.upgrade-border{
+    border: 2px solid #808080;
+    border-radius: 10px;
+}
+
+.upgrade-column{
+    width: 80px;
+}
+
+.upgrade-container {
+    display: grid;
+    grid-template-areas:
+    '. upgrade-table upgrade-expertise-1'
+    '. upgrade-table upgrade-expertise-2'
+    '. upgrade-table .';
+}
+
+.upgrade-expertise-1{
+    grid-area: upgrade-expertise-1;
+    margin-right: 10%;
+    padding: 2em 0 0 2em;
+    text-align: left;
+}
+
+.upgrade-expertise-2{
+    grid-area: upgrade-expertise-2;
+    margin-right: 10%;
+    padding: 2em 0 0 2em;
+    text-align: left;
+}
+
+.upgrade-expertise-2 > ul, .upgrade-expertise-1 > ul{
+    padding: 0;
+}
+

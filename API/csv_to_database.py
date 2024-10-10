@@ -36,5 +36,5 @@ def read_csv_and_insert_data(table_name):
             connection.close()
 
 if __name__ == '__main__':
-    table_name = "special_rules"
+    table_name = "magical_powers"
     read_csv_and_insert_data(table_name)

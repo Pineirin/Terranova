@@ -1,155 +1,119 @@
-Ancient Enemy;ancient_enemy;A Character with this Special Rule re-rolls 1s To Wound when fighting in combat against X Characters.
-Ancient Chaos;ancient_chaos;Any enemy Character within 18 m of this Character suffers a -1 penalty to its Courage. Note, this is not cumulative with other similar penalties such as those provided by Goblin Drums, the Harbinger of Evil special rule and so on.
-Arcane Sense;arcane_sense;"The Character automatically understands any magical effect if it is easy to do so; if it's Master in Scholar Acumen, it automatically understands non basic magical effects; if it’s Legendary, it understands complex magical effects."
-Arise Riders;arise_riders;If this Character is Cavalry and is within 12 m of an Anteran Lord, it receives +1 to its Fight value on a Round in which it Charges.
-Arm Wound;arm_wound;From this point on, this Character cannot carry a shield, wield a two-handed weapon, use a hand-and-a-half weapon two handed, or fire a bow or crossbow of any sort (though it may still use throwing weapons). It may only use single handed weapons from this point forward.
-Assurance (X);assurance;This Character may forgo the roll in Tests related to the Skill X. If it forgoes the roll, the Score becomes 4 times the number of dice the Character would roll.
-Automatic Knowledge (X);automatic_knowledge;Any Character with this Special Rule automatically gets a 6 in all dice in any Knowledge Test to recall information related to the Skill X.
-Backstabber;backstabber;This Character receives +1 to its To Wound rolls when making Strikes against a Trapped character. This bonus is cumulative with other bonuses, such as using a two-handed weapon.
-Bane of Kings / Venom;bane_of_kings_venom;This Character must re-roll all failed To Wound rolls when making Strikes in close combat.
-Bane Weapon (X);bane_weapon;Bane weapons cause D3 Wounds rather than 1, per successful Strike, against X Characters.
-Battle Cry;battle_cry;This Character may attempt to freely Demoralise a foe at the start of the first round of combat. Furthermore, if it is Legendary in Intimidation, Demoralise takes a Reaction instead of a Fast Action.
-Battle Medicine;battle_medicine;"This Character may take a Fast Action attempting to heal a Wound suffered by itself or another adjacent friendly Character in combat during the current or previous rounds. The Character rolls a Treat Wounds (Medical Treatment) Test, and applies the following results:
- Critical Success: The target recovers up to 2 Wounds; Success: The target recovers 1 Wound; Failure: No effect; Critical Failure: The target loses 1 Wound."
-Battle Veteran;battle_veteran;This Character may replace any dice for a 6 in any Knowledge or Reason Tests related to warfare.
-Bestial Charge;bestial_charge;This Character gains the Knock to the Ground and Extra Attack bonuses when it charges, exactly as if it was a Cavalry model.
-Bizarre Magic;bizarre_magic;The Magical Powers of this character cannot be identified by others.
-Blade Master;blade_master;This Character may re-roll a D6 when making a Duel roll.
-Blade of the Dead;blade_of_the_dead;To Wound Strikes made by this Character use its opponent's Courage rather than its Defence on the Wound chart. Characters with this special rule cannot use Special Strikes.
-Blessing of the Sidhe;blessing_of_the_sidhe;Each time this Character suffers a Wound, roll a D6. On a 6, the Wound is ignored exactly as if 1 point of Fate had been spent.
-Blood and Glory;blood_and_glory;If this Character kills an enemy Hero in a Fight, it immediately regains a single point of Might spent earlier in the combat.
-Bodyguard;bodyguard;This Character may choose to Bodyguard another Character. As long as the bodyguarded Character is alive and in the combat, this Character passes all Courage tests. This Character may change its Bodyguard target whilst out of combat.
-Bonded Animal;bonded_animal;After spending a week with an animal, this Character may attempt a TD 15 Command Test. If it succeeds, the Character forms a bond with the animal. A bonded animal will follow the Character and obey its commands, as long as they are reasonable and easy to understand.
-Brawler;brawler;If this Character is outnumbered during a Fight it gains +1 to both its Fight and Attack values.
-Breath Control;breath_control;This Character loses consciousness after 25 minutes holding respiration (instead of the normal 1-2).
-Burly;burly;"When fighting with a two-handed weapon, a Character with this Special Rule does not suffer the -1 penalty to its Duel roll.
- Additionally, Burly Characters may carry a Heavy Object and move their full distance."
-Captain;captain;This Character may replace any dice for a 6 in any Survival Tests related to the wilderness.
-Cave Dweller;cave_dweller;A Character with this special rule adds 1 to all Jump and Climb Test. It also suffers no penalties for fighting in the dark.
-Chieftain;chieftain;This Character was the Chieftain of a destroyed tribe. At the GM's discretion, a few other surviving members of the tribe will be present in the campaign, willing to help this Character.
-Combat Climber;combat_climber;This Character may engage another in a Fight while climbing a surface.
-Continual Recovery;continual_recovery;This Character may attempt a Treat Wounds Test 6 times for the same wound (instead of just 1).
-Craft Anything;craft_anything;Characters with this Special Rule may attempt to craft anything, even ignoring racial or alignment limitations.
-Sidhe Fighting Style;sidhe_fighting_style;This Character does not suffer the -1 penalty to their Duel rolls for using their Sidhe-made hand-and-a-half weapon as a two-handed weapon.
-Expert Rider;expert_rider;"Whilst mounted, an Expert Rider may re-roll the dice in Tests related to the mount movement (this includes Thrown Rider).
- Whilst mounted, a Character carrying both a shield and a bow will still receive the +1 Defence bonus for being armed with a shield.
- Additionally, an Expert Rider can pick up Light Objects without needing to dismount."
-Expert Shot;expert_shot;A Character with this special rule may fire twice in the Shoot phase. These shots are resolved one at a time, meaning that the shooter can target the same Character twice or two different Characters, once each, if it wishes.
-Fast Recovery;fast_recovery;This Character regains twice as many Wounds, Might, Will or Fate from sleeping.
-Fearless;fearless;This Character automatically passes any Courage Test it is required to make.
-Fell Sight;fell_sight;"A Character with this Special Rule does not need Line of Sight to be able to Charge.
- Additionally, it may target Characters with the Stalk Unseen Special Rule with no penalty."
-Fleetfoot;fleetfoot;A Character that has this Special Rule, and the Woodland Creature Special Rule, will also apply the effects of Woodland Creature to its mount: whilst mounted, it treats woodland terrain as clear terrain for the purposes of movement.
-Fly;fly;"This Character may fly. It may ignore all intervening Characters and terrain as it moves, flying over buildings, woods and so on. When flying, it may move up to 12 m. A Character with this Special Rule may still choose to use its normal Move value if it wishes, however, it will gain none of the benefits of the Fly Special Rule if it moves in this way. If a Character with the Fly special rule walks into a forest, it cannot use the Fly special rule again until it has fully left the woods.
- Furthermore, a Character with this Special Rule may pass over enemy Control Zones without charging the enemies, as long as it ends its move outside of the Control Zone."
-Foil Senses;foil_senses;No Character may use its special senses against this Character.
-Forager;forager;"A Character this Special Rule always gets at least a Success in any Subsist Test related to finding food and water. Furthermore it always finds food or water for 4 people; 8 if it is Expert in Survival; 16 if it is Master; 32 if it is Legendary."
-Forth Riders!;forth_riders;Whilst mounted, this Character gains a bonus of +1 Lethality on a turn in which it Charges.
-For the Motherland!;for_the_motherland;All friendly Characters within 6 m of this Character may re-roll failed Courage tests.
-Frenzied fighter;frenzied_fighter;Roll a D6 each time this Character suffers a Wound. On a 5+, the Wound is ignored.
-Harbinger of Chaos;harbinger_of_chaos;Any enemy Character within 12 m of this Character suffers a -1 penalty to its Courage. Note, this is not cumulative with other similar penalties such as those provided by Goblin Drums, the Ancient Evil special rule, and so on.
-Hardy;hardy;Any friendly Character within 6 m of this Character does not suffer penalties for moving through difficult terrain.
-Hardy Warrior;hardy_warrior;This Character may re-roll failed Fate rolls.
-Hatred (X);hatred;A Character with this Special Rule adds 1 to its To Wound rolls when fighting in combat against X Characters.
-Hefty Hauler;hefty_hauler;This Character may carry twice as much Small and Large Equipment.
-Heroic Presence;heroic_presence;This Character may declare a Heroic Combat each turn without expending Might to do so.
-Hero Slayer;hero_slayer;This Character gains a bonus of +1 when rolling To Wound against Hero Characters.
-Horse Lord;horse_lord;Whilst this Character is mounted, it may choose to expend its own Fate points to prevent Wounds caused to its mount.
-Impressive Performance;impressive_performance;Characters with this Special Rule may make an Impression using Performance instead of Diplomacy.
-Inspiring Presence;inspiring_presence;Friendly Characters within 6 m of this Character count as being in range of a Banner.
-Intimidating Glare;intimidating_glare;This Character ignores the language barrier in Intimidation Tests.
-Intimidation Prowess;intimidation_prowess;This Character ignores the language barrier and has Advantage in Intimidation Tests. Furthermore, if it has 6+ in Lethality and Defence, it has Great Advantage.
-Lead by Example;lead_by_example;Friendly Characters within 6 m of this Character gain a bonus of +1 to their Courage value.
-Legendary Medic;legendary_medic;This Character may attempt a Treat Wounds check to remove a permanent injury, illness or handicap (once per each).
-Legendary Performer;legendary_performer;This Character is well known across the regions in which it has performed and even in nearby regions. Its reputation is based on its known actions in those regions, but it tends to be positive for the Character’s interests.
-Leg Wound;leg_wound;This Character has its Move value reduced by 1 m.
-Lengthy Diversion;lengthy_diversion;If this Character creates a diversion, that diversion lasts for 12 seconds instead of 6.
-Lethal Aim;lethal_aim;This Character may spend a single free point of Might during each Shoot phase. This can either be to improve a To Hit, To Wound or an In The Way roll.
-Lie to Me;lie_to_me;If this Character has higher Deception than Perception, it may use its Passive Deception instead of the Passive Perception (to passively detect if it is being lied to).
-Local Knowledge;local_knowledge;This Character may replace any dice for a 6 in any Knowledge or Reason Tests related to the wilderness of its home region.
-Loyalty is Fleeting;loyalty_is_fleeting;This Character is known for its services in four different towns. In one of them it failed to complete a mercenary contract, in another it successfully completed a contract, in the third one it either fleed or betrayed its employer (at the player's choice), and in the last one it completed a very important contract for the town. The choice of the towns is done by the GM, choosing them from the character's home region.
-Magical Crafting;magical_crafting;This Character may craft basic magical wargear without essence.
-Magical Shorthand;magical_shorthand;"Learning a Magical Power takes 3 days (instead of a week); 1 if Master in Learn; 1 hour if Legendary. "
-Master Archer;master_archer;This Character may declare a Heroic Shoot each turn without expending Might to do so.
-Master of Ambush;master_of_ambush;Friendly Characters within 6 m of this Character have Advantage in Tests related to preparing an Ambush.
-Master of Battle;master_of_batle;"Whenever an enemy Hero attempts a Heroic Action within 6 m of this Character, this Character may call the same Heroic Action without spending Might, even if it would not usually have access to it.
- Sometimes a Character with this Special Rule will have a number after the rule in brackets, e.g., Master of Battle (5+). In this situation, whenever an enemy Hero attempts a Heroic Action within 6 m of this Character, roll a D6. If the dice score equals or beats the number after the Special Rule, this Character may call the same Heroic Action without spending Might, even if it would not normally be able to call the same Heroic Action."
-Master of Poisons;master_of_poisons;This Character must re-roll all failed To Wound rolls.
-Master of Terrain;master_of_terrain;This Character may not be slowed by difficult terrain of any type.
-Master Skirmisher;master_skirmisher;If this Character is mounted then it may still fire a bow even if it has moved over half its Move value this turn. Additionally, if this Character is mounted, it does not suffer the -1 penalty for using a two-handed weapon in a turn in which it charged.
-Mercenary;mercenary;This Character may re-roll one dice in Diplomacy and Intimidation Tests when negotiating a contract. If the negotiation takes place in the character's origin region, it may re-roll two dice instead.
-Mighty Blow;mighty_blow;For each Strike that successfully Wounds in close combat, this Character inflicts 2 Wounds rather than 1.
-Mighty Hero;mighty_hero;A Character with this Special Rule may expend 1 point of Might each round without reducing their own store of Might.
-Monstrous Charge;monstrous_charge;"If a Character with this Special Rule charges into combat, it will gain the Knock to the Ground and Extra Attack bonuses as if it was Cavalry, with a couple of exceptions:
- This Character will Knock to the Ground any Characters that it Charges, including Cavalry or Monster Characters, with a lower Lethality value than it, even if the charged Character has a Lethality of 6 or higher. The rider of a mount will automatically suffer the Knocked Flying result for its Thrown Rider Test.
- Additionally, this Character will still get the Extra Attack bonus if it Charges, or is subsequently charged by, Cavalry or another Character with this special rule.
- If a Character with this special rule is a Cavalry character, the mount will count as being In The Way of its rider, except that the rider will only be hit on a 5-6; a roll of 1-4 will hit the mount."
-Mountain Dweller;mountain_dweller;Mountain Dwellers may re-roll any Jump and Climb Tests. In addition, they may move through rocky areas that are classified as difficult terrain as if they were open ground.
-Natural Medicine;natural_medicine;Characters with Natural Medicine may use their Knowledge Skill for Treat Wounds Tests, instead of Medical Treatment. They also get Advantage in the Test while being in the wilderness.
-Nimble Crawl;nimble_crawl;"This Character may move 3/4 of its Move speed when prone; if it is Master In Agility, it may move its full Move speed instead. Furthermore, if the Character is Legendary in agility, it doesn't count as trapped due to being prone."
-Oddity Identification;oddity_identification;This Character may identify any magic, regardless of what would normally prevent it.
-Old Battle Wound;old_battle_wound;"When this Character sleeps, for each Old Battle Wound it has, it rolls 1d6; if it rolls any 1, it will not recover a Wound, Might, Will or Fate."
-Parry;parry;This Character may force its opponent to re-roll a single D6 in a Duel roll.
-Pinpoint Shot;pinpoint_shot;This Character may re-roll To Wound rolls of 1 when making shooting attacks.
-Poisoned Weapons (X);poisoned_weapons;Poisoned weapons must re-roll To Wound rolls of 1 when the weapon X is being used. 
-Powerful Leap;powerful_leap;This Character adds to any jump 1 m horizontally and 0.5 m vertically.
-Protect our Borders;protect_our_borders;This Character may replace any dice for a 6 in any Jump and Climb Tests.
-Quick Climb;quick_climb;The Character may Climb at full speed.
-Quick Coercion;quick_coercion;This Character may attempt to Coerce a Character with just a short phrase, instead of needing a conversation.
-Quick Disguise;quick_disguise;"The Character takes 5 minutes to craft a disguise; 1 if Master in Impersonate, 6 seconds if Legendary."
-Quick Recognition;quick_recognition;This Character may use a Free Action to recognize any Magical Power.
-Quick Repair;quick_repair;"This Character needs 1 minute to repair an item; if it's Master in Craft, a three Fast Actions; if it's Legendary in Craft, a Fast Action."
-Rapid Mantel;rapid_mantel;This Character may use its Climb Skill instead of the Reflex one to Grab an Edge when falling. Furthermore, it may automatically climb over the edge upon grabbing successfully.
-Read Lips;read_lips;This Character may read the lips of other Characters, provided it can see them properly and can focus on the task.
-Recognize Magical Power;recognize_magical_power;This Character may use a Reaction to recognize any Magical Power.
-Resistant to Magic;resistant_to_magic;If this Character is targeted by a Magical Power, it may use an additional free dice when it makes a Resist test, even if it has no Will remaining or decides not to use any Will points from its store.
-Robust Recovery;robust_recovery;All Treat Disease and Treat Poison Tests in which this Character is the target have Great Advantage and any Success becomes a Critical Success.
-Sage;sage;This Character may replace any dice for a 6 in any Knowledge Test related to information known by at least some people in its home region.
-Scare to Death;scare_to_death;Upon successfully rolling to Demoralise an enemy, this Character may replace the normal effect for a To Wound roll with its Lethality against its foe's courage. A Critical Success adds +1 To Wound.
-Seasoned Archer;seasoned_archer;This Character may still fire its bow even if it has moved its full Move allowance, or its crossbow if it has moved up to half of its Move allowance.
-Set Ablaze;set_ablaze;"A Character may be set ablaze through a number of means. When this happens, the Character immediately suffers one Lethality 9 hit. If the Character survives, it will suffer a further one Lethality 5 Hit in each End phase until the blaze is extinguished.
- To extinguish the blaze, this Character must either lie down and then crawl 1 U, or enter a water feature, at which point the blaze is immediately put out."
-Skilled Duelist;skilled_duelist;When fighting an enemy Hero, this Character may force its opponent to re-roll one of their dice in the Duel roll.
-Sure-Footed;sure_footed;This Character is never slowed by difficult terrain.
-Scout;scout;When this Character is about to be ambushed in the Wilderness, it may automatically attempt a Perception Test to detect the ambush.
-Shaman;shaman;This Character may replace any dice for a 6 in any Diplomacy or Intimidation Tests when the targets are devotees of the same religion and belong to the same home region.
-Shield Block;shield_block;If this Character is armed with a shield, it may use a Reaction to avoid 1 Wound in exchange for reducing the Durability of its shield by 1.
-ShieldWall;shieldwall;If this Character is armed with a shield, whilst in base contact with two or more non-Prone Characters with this Special Rule that are armed with a shield, this Character gains a bonus of +1 to its Defence. This bonus is only available whilst on foot.
-Slippery Secrets;slippery_secrets;No magic may read the mind of this Character.
-Specialty Crafting (X);specialty_crafting;"This Character rolls 1 additional D6 in the Craft Subskill X; if the Character is Master in Craft, it adds 2 instead."
-Stalk Unseen;stalk_unseen;"If a Character with this special rule is partially concealed from view by a piece of terrain, it cannot be seen at all at distances of more than 6 m, it appears to melt into the background. This means that enemies cannot Charge, Shoot or target it with Magical Powers or special rules at ranges of greater than 6 m, unless they have a completely clear view of the target.
- If the Character is riding a mount, Stalk Unseen has no effect."
-Stand Together;stand_together;If this Character is within 3 m of its closest friend in the party, it gains +1 to its Duel rolls.
-Steady Aim;steady_aim;This Character does not suffer the -1 penalty To Hit if moved during the Move phase.
-Streetwise;streetwise;This Character may use Gather Information to Recall Knowledge if the information may be gathered in the area the Character is present. Furthermore, for Gather Information tests, it may use Intimidation, Diplomacy or Command.
-Survey Wildlife;survey_wildlife;This Character may attempt a Survival Test to determine the presence of creatures in the area. It takes 10 minutes to do so. If the Character succeeds, it may attempt a Knowledge Test, with disadvantage, to learn characteristics of the creatures.
-Survival Instinct;survival_instinct;Each time a Character with this Special Rule suffers a Wound, it must take a Courage test. If the Test is failed then the Character flees the battlefield.. This is an exception to the usual rules for taking multiple Courage tests in a turn.
-Swift Movement;swift_movement;A Character with this Special Rule ignores difficult terrain. Furthermore, it may always climb at full speed, as long as the surface is not taller than its move Characteristic.
-Sworn Protector;sworn_protector;This Character may choose to be Sworn Protector of another Character. As long as the protected Character is alive and in the combat, this Character passes all Courage tests. This Character may change its protected Character if it dies.
-Terrain Stalker (X);terrain_stalker;This Character automatically succeeds in Sneak checks whilst being in the terrain X, as long as it moves at most 1 m every 6 seconds and doesn't come closer than 2 m to any non-friendly character.
-Terrified Retreat;terrified_retreat;If this Character Successfully Demoralises (not critically) another Character which fails the Courage check, the later Character has to move away its full Move characteristic (away from the demoralizer, in a line as straight as possible, avoiding obstacles and other Characters).
-Terror;terror;"Should another Character wish to Charge this Character, it must first take a Courage Test before it moves. If the Test is passed, the Character may Charge as normal. If the Test is failed, the Character does not Charge and may not move at all this turn.
-Sometimes, a Character will only cause Terror in certain enemies. In these instances, the creatures that are affected are listed in the rule, and only those Characters need to make a Courage Test before charging this character."
-Throw Stones (X, Y);throw_stone;If this Character does not move at all during the Move phase, then, in the Shoot phase, it may make a shooting attack with X Lethality and Y range (in m).
-Titan Wrestler;titan_wrestler;"This Character may Disarm, Grapple, Shove or Trip any creature that has, at maximum, 3 times its Height; 4 times if it is Legendary in Vigour."
-Toughness;toughness;The Character increases its Wounds by 1.
-To Battle!;to_battle;This Character may re-roll To Wound rolls of a 1 when making Strikes against Chaos Characters.
-Train Animal;train_animal;This Character may spend time teaching an animal to do a certain action. After training the Animal, it will do the action at command if the Character succeeds in a Command Test with a TD established by the GM. The training usually takes at least one week. Animals can be teached to do reasonable things, with the options becoming more open the higher expertise the Character has in Command.
-Treacherous;treacherous;"Every time this Character suffers a Wound in combat that would result in it being slain, after Fate points have been spent, roll a D6. On a 2+, this Character may select another friendly Character within 1 m of itself; that Character suffers the Wound instead of this character. Characters that suffer Wounds in this way may still use Fate points as normal."
-Trick Magic Item;trick_magic_item;"This Character may spend a Fast Action to make a magical item work in an unintended way performing a Scholar Acumen Test. The TD should be established by the GM:
-Critical Success, Success: The Character may activate or deactivate the item for the round length; Failure: The Character fails at tricking the item; Critical Failure:  The Character fails at tricking the item and may not attempt to trick it in the future."
-Underwater Marauder;underwater_marauder;This Character may engage another in a Fight while underwater.
-Unrivalled Allies;unrivalled_allies;If this Character is within 3 m of its closest friend in the party, it gains +1 to its Duel rolls.
-Untrained Improvisation;untrained_improvisation;This Character always rolls a minimum to 2D6 in each Test.
-Unyielding Combat Stance;unyielding_combat_stance;If a Character with this special rule is knocked Prone, roll a D6. On a 4+, the Character keeps its footing and is not knocked Prone. If this Character was mounted when knocked Prone, and passes the roll to keep its footing, it will stay on its feet but will still be separated from its mount. This Character may still make this roll even if it automatically suffers the Knocked Flying result and, if the roll is successful, it will not suffer any of its effects.
-Vagabond;vagabond;This Character may travel an additional hour each day without forcing the march.
-Virtuosic Performer (X);virtuosic_performer;"This Character rolls 1 additional D6 in the Performance Subskill X; if the Character is Master in Performance, it adds 2 instead."
-Wilderness Experience;wilderness_experience;This Character may re-roll any Jump, Climb or Swim Tests.
-Will of Chaos;will_of_chaos;This Character must give up 1 point of Will at the end of the Fight phase if it has been involved in one or more Fights that turn. Note that if a Character is in base contact with an enemy Character then it must fight, it cannot choose not to fight! Once the Character is reduced to 0 Will points, it is banished and therefore removed as a casualty. If a Character with this Special Rule uses its last Will point to cast a Magical Power with the Instant duration, the effects of the Magical Power will be resolved before the Character is removed as a casualty.
-Wall Jump;wall_jump;This Character may perform a Jump from a vertical wall as if it was the floor. The start of each wall jump must be 6 seconds apart.
-Wanderer;wanderer;Other friendly Characters may not benefit from the Heroic Actions and Stand Fast! called by this Character.
-Ward Medic;ward_medic;"This Character may Treat Wounds or Treat Poison of 2 Characters at the same time; 4 if it is Master In First Aid and Medical Treatment; 8 if it is Legendary."
-Warrior;warrior;This Character may replace any dice for a 6 in any Force March Test.
-Wildman;wildman;This Character may replace any dice for a 6 in any Survival Tests related to the wilderness.
-Woodland Creature;woodland_creature;An Infantry Character with this Special Rule may move through woods and forests that are classified as difficult terrain as if it was in open ground.
-You Shall Taste Chaos!;you_shall_taste_chaos;This Character receives a bonus of +1 To Wound when making strikes against Order Characters.
+Aura of Command;aura_of_command;"This power targets the caster themselves. While this power is in effect, the caster and all friendly Characters within 6 m automatically pass any Courage tests they are required to make.
+Channelled: The range of this power is increased to 12 m.
+Duration: Exhaustion."
+Aura of Dismay;aura_of_dismay;"This power targets the caster themself. While this power is in effect, the caster and all friendly Characters within 6 m cause Terror.
+Channelled: The range of this power is increased to 12 m.
+Duration: Exhaustion."
+Banishment;banishment;"This power targets one enemy Character within range. This power only affects Spirit Characters. The target Character automatically suffers 1 Wound, exactly as if it had been wounded in combat.
+Channelled: The target suffers D3 Wounds rather than 1.
+Duration: Instant."
+Black Dart;black_dart;"This power targets one enemy Character within range. The target immediately suffers one Lethality 9 hit. Do not roll To Hit or for In The Way tests.
+Channelled: A wounding hit will cause D3 Wounds rather than 1.
+Duration: Instant."
+Bladewrath;bladewrath;"This power targets one friendly Character within range. In the Fight phase, all Strikes made by the target Character are resolved at Lethality 6, regardless of other modifiers.
+Channelled: All Strikes are instead resolved at Lethality 10.
+Duration: Temporary."
+Blessing of the Divine;blessing_of_the_divine;"This power targets one friendly Character within range. They immediately recover a Fate point spent earlier in the battle. This may not take a Character’s Fate beyond its starting level.
+Channelled: The target instead recovers D3 Fate.
+Duration: Instant."
+Blinding Light;blinding_light;"This power targets the caster themselves. While this power is in effect, any shooting attacks directed at the caster, or a friendly Character within 6"" of them, will only hit on a To Hit roll of a 6. Additionally, an area within a 12"" radius around the caster is illuminated as if it were daylight.
+Channelled: The duration becomes Exhaustion.
+Duration: Temporary."
+Call Winds;call_winds;"This power targets one enemy Character within range. The target is blown D6 m directly away from the caster in a straight line. If the Character comes into contact with another Character or an obstacle like a hedge, house or large rock, then it will stop 1 m away from it. In either case the target Character is knocked Prone. If the target is in combat, the effect is the same as described above, but every other Character in the combat is also knocked Prone.
+Channelled: The target is instead blown 2D6 m away.
+Duration: Instant."
+Chill Soul;chill_soul;"This power targets one enemy Character within range. The target Character suffers a Wound, exactly as if it had been wounded in combat. If cast on a Cavalry Character, the caster decides whether the rider or the mount suffers the Wound. This power may be cast on a Character Engaged in close combat.
+Channelled: The range of this Magical Power is increased by 6 m.
+Duration: Instant."
+Collapse Rocks;collapse_rocks;"This power targets one enemy Character within range. This power may only be cast on a Character that is within a ruin, stone or brick building, cave, rock pile or another similar where a caster could crack rocks either underfoot or overhead. The target suffers one Lethality 5 hit.
+Channelled: The range of this Magical Power is increased by 6 m.
+Duration: Instant."
+Command;command;"This power targets one enemy Character within range. The caster may move the target Character up to half of its maximum Move distance. They can do this even if the target has already moved this turn. The move cannot force the target to jump, leap, climb, dismount or lie down, but can take them into difficult terrain, and even make them Charge an enemy. No Courage test is required to Charge Terror-causing foes. It can even force an unengaged victim to drop an object (but not wargear) that it is holding. Once the target has finished the move, it may move no further in the turn for any reason. Finally, the target suffers the effect of the Immobilise Magical Power.
+Channelled: Additionally, while this power is in effect, the target will halve their Fight and Attacks characteristics (rounding up), and may not Strike if they win a Duel.
+Duration: Temporary."
+Compel;compel;"This power targets one enemy Character within range. The caster may move the target Character up to half of its maximum Move distance. They can do this even if the target has already moved this turn. The move cannot force the target to jump, leap, climb, dismount or lie down, but can take them into difficult terrain, and even make them Charge an enemy. No Courage test is required to Charge Terror-causing foes. It can even force an unengaged victim to drop an object (but not wargear) that it is holding. Once the target has finished the move, it may move no further in the turn for any reason. Finally, the target suffers the effect of the Immobilise Magical Power.
+Channelled: Additionally, while this power is in effect, the target will halve their Fight and Attacks characteristics (rounding up), and may not Strike if they win a Duel.
+Duration: Temporary."
+Curse;curse;"This power targets one enemy Character within range. The target Character immediately loses 1 Fate point.
+Channelled: The target Character immediately loses all remaining Fate points.
+Duration: Instant."
+Drain Courage;drain_courage;"This power targets one enemy Character within range. The target immediately reduces their Courage characteristic by 1 for the remainder of the battle, to a minimum of 1. This power can take effect multiple times over the course of a battle, reducing the target’s Courage each time.
+Channelled: The target’s Courage is instead reduced by D3.
+Duration: Instant."
+Enchanted Blades;enchanted_blades;"This power targets one friendly Character within range. In the Fight phase, the target may re-roll all failed To Wound rolls.
+Channelled: Additionally, the target may add 1 to all To Wound rolls. This is cumulative with using a two-handed weapon.
+Duration: Temporary."
+Enrage Beast;enrage_beast;"This power targets one friendly Character within range. This power can be used against a single beast (including a Shape). If successful, the target’s Fight, Attacks, Lethality and Courage are increased by 2 until the End phase. During the End phase, the target suffers one Lethality 10 hit.
+Channelled: The target’s Fight, Attacks, Lethality and Courage are instead increased by 3.
+Duration: Temporary."
+Flameburst;flameburst;"This power targets one enemy Character within range. The target immediately suffers one Lethality 6 hit.
+Channelled: The target instead suffers the effects of the Set Ablaze Special Rule.
+Duration: Instant."
+Fortify Spirit;fortify_spirit;"This power may target one friendly Character within range. While this power is in effect, the target rolls two extra dice when making Resist tests. These extra dice do not reduce the target’s store of Will and can even be rolled if the target has no Will points remaining or chooses not to expend any Will.
+Channelled: The target also adds 1 to their highest dice score when resisting magic.
+Duration: Exhaustion."
+Fury;fury;"This power targets all X friendly Characters within 6 m. Whilst this power is in effect, all targets will automatically pass any Courage tests they are required to make.
+Channelled: Additionally, each time a target suffers a Wound whilst within range of at least one friendly Character that has cast Fury, roll a D6. On the roll of a 6, the target ignores the Wound exactly as if a point of Fate had been spent. This roll is taken immediately after the Wound has been suffered, can be taken before Fate rolls are made and Might may be used to influence it.
+Duration: Exhaustion."
+Immobilise;immobilise;"This power targets one enemy Character within range. While this power is in effect, the target Character may not move (except to Back Away should they lose a Fight), shoot, cast Magical Powers, declare Heroic Actions, call a Stand Fast! or use active abilities and may not Strike if they win a Duel.
+Channelled: Additionally, while this power is in effect, the target will halve their Fight and Attacks characteristics (rounding up).
+Duration: Temporary."
+Instill Fear;instill_fear;"This power targets all enemy Characters within range. Each affected Character must take a Courage test, in an order chosen by the caster; if the test is failed then the Character must move its maximum Move distance directly away from the caster. If the Character comes into contact with another Character, or impassable terrain, then it will stop so it is not in base contact with it. Character that fail a Courage test due to the effects of this Magical Power may then move no further that turn, for any reason.
+Channelled: Courage tests caused by this Magical Power are taken on 3D6, discarding the highest result.
+Duration: Instant."
+Nature's Wrath;natures_wrath;"This power targets all enemy Characters within range. All enemy Characters within 6 m of the caster are knocked Prone. Cavalry Characters are automatically Knocked Flying and both rider and mount are then knocked Prone.
+Channelled: All enemy Characters suffer one Lethality 2 hit after being knocked Prone.
+Duration: Instant."
+Panic Steed;panic_steed;"This power targets one enemy Character within range. This power may only target Cavalry Characters. The rider is immediately thrown and the mount instantly flees. Remove the mount and roll a Thrown Rider Test for the rider.
+Channelled: This power also targets all enemy Characters within 3 m of the initial target.
+Duration: Instant."
+Paralyse;paralyse;"This power targets one enemy Character within range. The target is immediately paralyzed. It is knocked Prone and may do nothing until it recovers, including using active abilities. The target may make no Duel rolls and will automatically lose any Duels it takes part in unless joined by a friendly Character. 
+During the End phase, the player must roll a D6. On a 6, the Character recovers and stands up. Friendly Characters who spend the Fight phase in contact with a Paralyzed Character, and do nothing else, may also attempt to revive the victim. Roll an additional D6 for the Paralyzed Character for each such friend. Might points can be used to modify this roll.
+Channelled: At the end of each turn that the target remains Paralyzed, they suffer one Lethality 5 hit.
+Duration: Instant."
+Protection of the Divine;protection_of_the_divine;"This power may target the caster or a single friendly Character within 3 m. The target may not be targeted by an enemy’s Magical Powers or Special Rules .
+Channelled: The power will affect all friendly Characters within 3 m.
+Duration: Temporary."
+Refreshing Song;refreshing_song;"This power targets one friendly Character within range. The target immediately recovers a single lost Wound, as well as a single lost Might, Will and Fate point spent earlier in the battle. The target also immediately recovers from the effects of any Magical Power they wish.
+Channelled: The target instead recovers all lost Wounds rather than just one, in addition to all other effects.
+Duration: Instant."
+Renew;renew;"This power targets a single friendly Character within range. The target immediately regains a single Wound lost earlier in the battle.
+Channelled: The target instead D3 lost Wounds
+Duration: Instant."
+Sap Will;sap_will;"This power targets one enemy Character within range. The target immediately loses D3 Will points.
+Channelled: The target loses D6 Will points.
+Duration: Instant."
+Shatter;shatter;"This power targets one enemy Character within range. Pick a single piece of wargear on the target Character. The selected item is immediately destroyed. All Special Rules associated with the selected item are lost. 
+Note that wargear such as mounts, living creatures or those directly attached to the Character (such as claws and teeth, etc.), Staffs of Power cannot be shattered.
+Channelled: The target additionally suffers one Lethality 6 hit.
+Duration: Instant."
+Shroud of Shadows;shroud_of_shadows;"This power targets a friendly Character within range. The target is considered to be invisible until the End phase. They cannot be targeted by enemy Characters’ Magical Powers, Special Rules or shooting attacks (and do not count as In The Way). They have no Control Zone while invisible and enemy Characters may even move “through” them. An enemy Character may not end its movement on the space the target is taking up. 
+If an enemy wishes to Charge the target, it must pass a Courage test, applying a penalty of -1 to the roll for every full m that the target is away from the foe.
+Channelled: Additionally, during the Fight phase, any enemy Character Engaged in combat with the target halves its Fight value for the duration of the Duel.
+Duration: Temporary."
+Sorcerous Blast;sorcerous_blast;"This power targets one enemy Character within range. The target is blasted D6 m directly away from the caster and knocked Prone. If the target comes into contact with another Character that is Lethality 5 or less, it will immediately stop and both Characters will be knocked Prone. If the target, or one of the Characters that is knocked Prone, is Engaged in combat, then all the Characters (friend and foe) in the same Fight are also knocked Prone. The target Character suffers one Lethality 5 hit, and any other Character knocked Prone suffers one Lethality 3 hit. Cavalry Characters are Knocked Flying. 
+Additionally, If the target comes into contact with an Obstacle like a hedge, house or large rock, or a Character that is Lethality 6 or higher, then it will immediately stop and be knocked Prone, however the Lethality 6 Character will not be knocked Prone. Both the target and the obstacle or Character will suffer one Lethality  3 hit. 
+Note: Even Transfixed/Compelled or otherwise immobilized Characters will be blasted by this power.
+Channelled: The initial hit is instead Lethality 6 and every other Character suffers instead one Lethality 4 hit.
+Duration: Instant."
+Strengthen Will;strengthen_will;"This power targets one friendly Character within range. The caster can use this spell to give 1 Will point to a friendly Hero within range. The target’s Will can be increased past their starting amount, and this power can be used even if they started the battle without any Will points.
+Channelled: The target instead receives D3 Will points.
+Duration: Instant."
+Terrifying Aura;terrifying_aura;"This power targets the caster themselves. While this power is in effect, the caster causes Terror.
+Channelled: Characters wishing to Charge the caster whilst this power is in effect must take their Courage test on 3D6, discarding the highest dice.
+Duration: Exhaustion."
+Transfix;transfix;"This power targets one enemy Character within range. While this power is in effect, the target Character may not move (except to Back Away should they lose a Fight), shoot, cast Magical Powers, declare Heroic Actions, call a Stand Fast! or use active abilities and may not Strike if they win a Duel.
+Channelled: Additionally, while this power is in effect, the target will halve their Fight and Attacks characteristics (rounding up).
+Duration: Temporary."
+Tremor;tremor;"This power targets one enemy Character within range, and any Character that falls under the line. Draw a straight line, 1 m wide, that extends D6 m from the target in the direction directly away from the caster. All Characters (both friend and foe) touched are knocked Prone and suffer one Lethality 6 hit. Cavalry Characters are Knocked Flying. If a Character hit is in combat then all Characters in that combat are hit by this Magical Power. One affected Character may attempt to Resist this power in the usual manner.
+Channelled: The line instead extends out 2D6 m.
+Duration: Instant."
+Wither;wither;"This power targets one enemy Character within range. The target’s Lethality is reduced by 1 (to a minimum of 1) for the remainder of the battle.
+Channelled: The target’s Lethality is instead reduced by D3.
+Duration: Instant."
+Wrath of Ocean;wrath_of_ocean;"This power targets all enemy Characters within range. All enemy Characters within 6 m of the caster are knocked Prone. Cavalry Characters are Knocked Flying and both rider and mount are then knocked Prone. All affected Characters additionally suffer one Lethality 2 hit, or one Lethality 8 hit if they are in a stream, river or other similar water feature.
+Channelled: All enemy Characters instead suffer one Lethality 3 hit after being knocked Prone or one Lethality 9 hit if they are in a stream, river or similar water feature.
+Duration: Instant."
+Your Staff is Broken;your_staff_is_broken;"This power targets one enemy Character within range, so long as they have a staff. This power destroys the staff of the target Character. All the advantages associated with the staff are immediately lost (including the hand-and-a-half weapon bonus).
+Channelled: The target additionally suffers a Lethality 7 hit.
+Duration: Instant."

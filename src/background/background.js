@@ -29,7 +29,7 @@ function Background({ id, title, onClick, move, fight, shoot, lethality, defence
 
       return (
             <>
-                  <div onClick={() => onClick(move, fight, shoot, lethality, defence, attacks, wounds, courage, might, will, fate, athletics, finesse, practise, cleverness, charisma, erudition, wargear, knownWargear, adept, points, valid, Object.keys(specialRules), Object.keys(heroicActions), modal)} className={"position-relative width-20 height-100 fade-in " + (valid ? `panel ` : `panel-disabled`)}>
+                  <div onClick={() => onClick(title, move, fight, shoot, lethality, defence, attacks, wounds, courage, might, will, fate, athletics, finesse, practise, cleverness, charisma, erudition, wargear, knownWargear, adept, points, valid, Object.keys(specialRules), Object.keys(heroicActions), [], modal)} className={"position-relative width-20 height-100 fade-in " + (valid ? `panel ` : `panel-disabled`)}>
                         <h2>{title}</h2>
                         <div className='background-container fantasy-text'>
                               <div className='background-section background-points'>

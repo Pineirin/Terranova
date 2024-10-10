@@ -125,3 +125,11 @@
     align-items: center;
     margin-right: 2em;
 }
+
+.modal-buttons-center{
+    grid-area: modal-buttons;
+    display: flex;
+    justify-content: center; /* Align content to the right */
+    align-items: center;
+    margin-right: 2em;
+}
